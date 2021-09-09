@@ -1,4 +1,3 @@
 first line entered on local repo
-
-second line entered while Head on newfeatures branch
+second line entered while on newfeatures branch 
 
