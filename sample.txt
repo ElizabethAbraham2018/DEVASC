@@ -1,2 +1,4 @@
 first line entered on local repo
+
 second line entered while Head on newfeatures branch
+
