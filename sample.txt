@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 first line edited on local repo
 second line edited on Sept 27th without push to central repo
 
+=======
+first line entered on local repo
+second line entered while on newfeatures branch 
+>>>>>>> parent of 1307eee... commit on Sept 27th
 
