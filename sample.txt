@@ -4,3 +4,5 @@ second line edited on Sept 27th from central repo
 
 change on gitBranch NewFeature-test of Branches
 test of stash
+
+test of branching
