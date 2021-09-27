@@ -6,3 +6,4 @@ change on gitBranch NewFeature-test of Branches
 test of stash
 
 test of branching
+test of fetch
