@@ -2,8 +2,5 @@ first line edited on local repo
 second line edited on Sept 27th from central repo
 adding a new line via remote repo
 adding a line from VScode
-<<<<<<< HEAD
 adding another line from VSCode
-=======
-adding a line from GitHub editor
->>>>>>> cebb4304f9a6e4fb402502f4444256cfed916435
+
